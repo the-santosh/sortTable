@@ -1,0 +1,14 @@
+{
+  "name": "sort-table-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Santosh S",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
